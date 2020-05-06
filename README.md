@@ -1,0 +1,2 @@
+# shellscript
+processos de memoria
